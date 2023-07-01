@@ -1,5 +1,5 @@
 # Django-Admin
-For Running this we need to install
+For Running this project we need to install
 1. Django (python framework)
 2. Xampp (for Database)
 4. mysqlclient package (for database connection)
