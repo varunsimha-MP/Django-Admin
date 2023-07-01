@@ -1,4 +1,4 @@
-# Django-Admin
+# Django_Admin
 For Running this project we need to install
 1. Django (python framework)
 2. Xampp (for Database)
